@@ -1,0 +1,10 @@
+chromadb
+pypdf
+sentence-transformers
+transformers
+huggingface_hub
+python-dotenv
+requests
+langchain
+langchain-community
+langchain-experimental
